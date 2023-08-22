@@ -14,3 +14,9 @@
 let Var = "The VAR in Argentina works very badly"
 
 ```
+
+# Task List
+
+- [ ] Making a github course 
+- [ ] Making a github skills
+- [x] Nothing
